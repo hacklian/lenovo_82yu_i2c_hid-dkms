@@ -1,0 +1,4 @@
+16c16
+< #include "../hid-ids.h"
+---
+> #include "hid-ids.h"
