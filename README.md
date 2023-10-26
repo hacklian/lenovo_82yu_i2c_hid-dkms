@@ -57,4 +57,6 @@ The touchpad on your Lenovo V15 G4 AMN notebook should now work properly with Li
 If you encounter issues or have improvements to the patches, feel free to open an issue or submit a pull request. Your contributions are welcome and appreciated.
 
 ## License
-Since this is modifying the linux kernel, this project is licensed under the GNU GENERAL PUBLIC License. See the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC License. See the LICENSE file for details.
+
+The Linux Kernel is provided under the SPDX-License-Identifier: GPL-2.0 WITH Linux-syscall-note. See the COPYING file for details.
